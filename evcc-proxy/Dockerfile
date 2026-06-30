@@ -1,4 +1,4 @@
-FROM ghcr.io/hassio-addons/base:15.0.8
+FROM ghcr.io/hassio-addons/base:21.0.0
 
 RUN apk add --no-cache nginx gettext curl jq
 

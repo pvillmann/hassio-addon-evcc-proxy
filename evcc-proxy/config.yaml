@@ -1,8 +1,8 @@
 ---
 name: evcc (Proxy)
-version: 1.0.0
+version: 1.1.0
 slug: evcc_proxy
-description: Home Assistant add-on that provides Ingress access to an externally hosted evcc instance via a lightweight reverse proxy (does not run evcc itself)
+description: Home Assistant app that provides Ingress access to an externally hosted evcc instance via a lightweight reverse proxy (does not run evcc itself)
 url: https://github.com/pvillmann/hassio-addon-evcc-proxy
 arch:
   - armv7
